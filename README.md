@@ -36,7 +36,7 @@
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-42b983?style=flat-square&logo=vue.js&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-mysql-?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-E34F26?style=flat-square&logo=mysql&logoColor=white)
 
 
 🧰 常用的工具:
