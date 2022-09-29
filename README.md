@@ -31,7 +31,7 @@
 &emsp;&emsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-42b983?style=flat-square&logo=vue.js&logoColor=white)
@@ -39,7 +39,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![WeChat](https://img.shields.io/badge/-微信小程序-07C160?style=flat-square&logo=mysql&logoColor=white)
+![WeChat](https://img.shields.io/badge/-微信小程序-07C160?style=flat-square&logo=WeChat&logoColor=white)
 
 
 🧰 常用的工具:
