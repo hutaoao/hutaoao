@@ -13,8 +13,9 @@
 <div align="center">
   <a href="http://111.67.200.97"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
   <a href="https://www.yuque.com/hutaoao"><img src="https://img.shields.io/badge/yuque-语雀-ff69b4"></a>&emsp;
-<!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" /></div>
+  <!-- 访客数统计徽标 -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" />
+</div>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
@@ -40,7 +41,7 @@
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![WeChat](https://img.shields.io/badge/-微信小程序-07C160?style=flat-square&logo=WeChat&logoColor=white)
-
+<br/>
 
 🧰 常用的工具:
 
@@ -52,7 +53,8 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-007ACC?style=flat-square&logo=WebStorm&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+<br/>
 
-🌍 活动统计:
+🌍 GitHub活动统计:
 <!-- GitHub Readme Activity Graph （GitHub 活动统计图） -->
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=hutaoao&theme=xcode" /> </div>
