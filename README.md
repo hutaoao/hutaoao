@@ -22,11 +22,11 @@
 
 #  🙋 Hello
 
-<p>🚂&nbsp;&nbsp;大家好，我是一名奋斗在一线的前端程序猿，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
-<p>✈️&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>🚀&nbsp;&nbsp;大家好，我是一名奋斗在一线的前端程序猿，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 
 
-🧐 个人技能: 
+🐡 个人技能: 
 
 &emsp;&emsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
