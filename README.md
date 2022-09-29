@@ -40,8 +40,7 @@
 🧰 常用的工具:
 
 &emsp;&emsp; 
-![Mac](https://img.shields.io/badge/mac-0078D6?style=flat-square&logo=apple&logoColor=white)
-![Ios](https://img.shields.io/badge/Ios-FCC624?style=style=flat-square&logo=Ios&logoColor=black)
+![Ios](https://img.shields.io/badge/Ios-FCC624?style=style=flat-square&logo=Apple&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
