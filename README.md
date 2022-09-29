@@ -35,7 +35,9 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-42b983?style=flat-square&logo=vue.js&logoColor=white)
+![ReactNative](https://img.shields.io/badge/-ReactNative-61dafb?style=flat-square&logo=React&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 
