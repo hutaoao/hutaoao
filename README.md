@@ -53,5 +53,6 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
+🌍 活动统计:
 <!-- GitHub Readme Activity Graph （GitHub 活动统计图） -->
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=hutaoao&theme=xcode" /> </div>
