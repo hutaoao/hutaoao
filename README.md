@@ -21,10 +21,16 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 
-#  🙋 Hello
+🙋 Hello
+🚀  大家好，我是拥有 9 年一线大前端开发经验的资深程序猿，专注于跨平台移动开发与大型 Web 前端架构，具备从技术选型、架构设计到上架交付的全流程主导能力。注重性能优化与用户体验，擅长运用 AI 工具及工程化思维提升研发效率。
 
-<p>🚀&nbsp;&nbsp;大家好，我是一名奋斗在一线的前端程序猿，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+📱 跨平台移动开发：深耕 Flutter、HarmonyOS、React Native、Uniapp 等跨平台技术，主导完成多个商业应用从 0 到 1 的开发与上架交付。熟悉原生能力集成、热更新方案及双端打包上架全流程，具备丰富的多端适配与性能调优经验。
+
+🌐 Web 前端架构：精通 Vue2/3、React 生态及 TypeScript，熟练使用 Pinia、Zustand 等状态管理方案。具备微前端（qiankun）落地实战经验，擅长 Echarts、GoJS 等复杂数据可视化开发，能独立完成高保真视觉还原与交互体验优化。
+
+⚙️ 工程化与全栈能力：熟悉 Node.js（Express/Koa）后端开发，具备 Jenkins CI/CD、Nginx 配置与项目运维能力。积极拥抱 AI 时代，善用 CodeBuddy、DeepSeek 等智能工具辅助代码编写、方案设计与技术文档撰写，显著提升研发效能。
+
+💡 创新成果：曾主导开发可视化零代码自定义表单系统，从产品设计到技术实现全流程把控，成功输出专利《一种可视化零代码自定义表单系统与方法》。
 
 
 🐡 个人技能: 
